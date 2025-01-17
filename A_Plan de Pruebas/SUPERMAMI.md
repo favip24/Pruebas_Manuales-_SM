@@ -8,7 +8,7 @@ Garantizar la funcionalidad y calidad del sistema de registro y configuración d
 - Características principales a probar:  
     - Creación de nuevos Usuarios.
     - Modificación de datos del Usuario.
-    - Desvinculación de Usuarios.
+    - Cierre de Sesión de Usuarios.
     - Navegación por categorías de Productos.
     - Agregar productos al carrito de compras.
     - Eliminación de productos del carrito.
@@ -35,16 +35,16 @@ Garantizar la funcionalidad y calidad del sistema de registro y configuración d
 # Estructura del Proyecto en Jira.
 * Epica 1: Gestión de Usuarios.
     * Sprint: Gestión de Usuarios: 
-        - Creación, Edición y Eliminación de Usuarios.
+        - Creación, Edición y Cierre de Sesión de Usuarios.
     * Historias de Usuario:
         - Registro de Nuevos Usuarios.
         - Edición de Usuarios.
-        - Eliminación de Usuarios.
+        - Cierre de Sesión de Usuarios.
     * Tareas:
         - Diseñar Casos de Prueba Positivo y Negativo para: 
             - Registro de Nuevos Usuarios.
             - Edición de Usuarios.
-            - Eliminación de Usuarios.
+            - Cierre de Sesión de Usuarios.
         - Registrar Defectos.
     * SubTareas:
         - Crear datos de prueba.

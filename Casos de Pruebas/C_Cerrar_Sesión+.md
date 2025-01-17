@@ -1,7 +1,7 @@
 # PMS - 10
-# Eliminación de Usuarios - Caso de Prueba Positivo
+# Cerrar Sesión de Cuenta - Caso de Prueba Positivo
 # Descripción
-- Verificar que el usuario pueda eliminar y desvincular su cuenta del sitio web SuperMami.
+- Verificar que el usuario pueda cerrar sesión en su cuenta del sitio web SuperMami.
 
 # Prioridad
 - Alta
@@ -19,18 +19,16 @@
 # Datos de Entrada
 - Usuario: testsupermami@gmail.com
 - Contraseña: Amidalapadme04
-- Confirmación: "Sí."
+- Botón: "Cerrar Sesión."
 
 # Pasos
 1. Iniciar sesión con el usuario registrado.
 2. Navegar a la sección de configuración de cuenta.
-3. Hacer clic en el botón "Eliminar Cuenta."
-4. Confirmar la eliminación de la cuenta.
+3. Hacer clic en el botón "Cerrar Sesión."
 5. Verificar el mensaje de éxito.
 
 # Resultado Esperado
-- Mensaje: "Cuenta eliminada con éxito."
-- El usuario no puede volver a iniciar sesión con la cuenta eliminada.
+- El Sistema redirige al Sitio Web sin usuario registrado
 
 # Resultado Obtenido
 - (Pendiente de prueba)

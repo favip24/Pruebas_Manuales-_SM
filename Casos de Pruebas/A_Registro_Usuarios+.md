@@ -18,7 +18,7 @@
 - Contraseña válida con al menos 8 caracteres, incluyendo mayúsculas, minúsculas y números.
 
 # Datos de Entrada
-- Usurio/Correo Electróníco: testsupermami@gmail.com
+- Usuario/Correo Electróníco: testsupermami@gmail.com
 - Nombre: Anakin 
 - Apellido: Skywalker
 - Contraseña: Amidalapadme04

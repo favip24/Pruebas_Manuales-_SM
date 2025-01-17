@@ -44,9 +44,6 @@ En este proyecto, puse en práctica varios conceptos y técnicas fundamentales d
 
 Este proyecto refleja un enfoque profesional y metódico en la gestión de pruebas manuales.  
 
-# Aclaración
-- Para los datos de entrada utilice mis datos reales para realizar las pruebas, en este documento esos nombres serán alterados por razones de seguridad.
-
 # Pasos - ¿Qué cosas hice durante el proyecto?
 1. Analizar posibles proyectos
 2. Identificar su alcance analizando funcionalidades y características claves
@@ -61,3 +58,7 @@ Este proyecto refleja un enfoque profesional y metódico en la gestión de prueb
 11. Generar datos de prueba de forma manual
 12. Diseñar los template de TestCases y Bugs
 13. Ejecutar Casos de pruebas
+
+# Aclaración Nueva
+- Dado que el Sitio Web no tiene la opción para Eliminar un Usuario, He realizado algunos cambios en las HU y Casosd de Prueba
+Por lo que validaré las acciones de Cerrar la Sesión.
