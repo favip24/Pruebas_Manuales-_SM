@@ -20,8 +20,8 @@
 # Datos de Entrada
 - Usuario: testsupermami@gmail.com
 - Contraseña: Amidalapadme04
-- Nombre: Luke
-- Apellido: Skywalker
+- Nombre: Han
+- Apellido: Solo
 - Correo Electrónico: testjedi@gmail.com.
 
 # Pasos
@@ -29,9 +29,8 @@
 2. Navegar a la sección de perfil de usuario.
 3. Hacer click en el botón "Editar Perfil."
 4. Ingresar los nuevos datos válidos:
-    - Nombre: Luke
-    - Apellido: Skywalker
-    - Correo Electrónico: testjedi@gmail.com.
+    - Nombre: Han
+    - Apellido: Solo
 5. Hacer click en el botón "Guardar Cambios."
 6. Verificar que se realicen los cambios correctamente.
 
